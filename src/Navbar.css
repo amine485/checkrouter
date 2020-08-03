@@ -1,0 +1,12 @@
+.flex3{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+.st{
+    color: white;
+}
